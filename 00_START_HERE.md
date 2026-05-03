@@ -28,7 +28,7 @@ main.py                         Orchestration (runs all phases)
 
 ### Documentation (Placement-Ready)
 ```
-README_COMPLETE.md              Full project guide (10,700 words)
+README.md              Full project guide (10,700 words)
 INTERVIEW_FAQ.md                12 Q&A with detailed answers (17,000 words)
 QUICKSTART.md                   6-step quick start
 PROJECT_COMPLETE.md             This summary
@@ -268,7 +268,7 @@ quickstart.py                 (~200 lines) Quick start generator
 
 ### Documentation Files
 ```
-README_COMPLETE.md            (~10,700 words) Full documentation
+README.md            (~10,700 words) Full documentation
 INTERVIEW_FAQ.md              (~17,000 words) Q&A guide
 QUICKSTART.md                 (~7,200 words)  Quick start
 PROJECT_COMPLETE.md           (~15,000 words) Summary (this file)
@@ -425,7 +425,7 @@ A: "FastAPI with Uvicorn handles 1000+ requests/second. For higher volumes: (1) 
 ## 📞 SUPPORT
 
 ### Having Issues?
-1. Check README_COMPLETE.md for detailed explanations
+1. Check README.md for detailed explanations
 2. Review code comments in each script
 3. See INTERVIEW_FAQ.md for technical concepts
 4. Check outputs/ folder for visualizations
@@ -490,7 +490,7 @@ You now have:
 
 **Questions? Check INTERVIEW_FAQ.md!**  
 **Want to run it? Check QUICKSTART.md!**  
-**Need details? Check README_COMPLETE.md!**
+**Need details? Check README.md!**
 
 ---
 
